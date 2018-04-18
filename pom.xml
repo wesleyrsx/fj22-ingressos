@@ -18,6 +18,8 @@
     </properties>
 
 
+
+
     <dependencies>
 
         <dependency>
@@ -150,5 +152,12 @@
             </plugin>
         </plugins>
     </build>
+<developers>
+	<developer>
+		<name>Wesley</name>
+		<email>wesleyrsx@gmail.com</email>
+	</developer>
+</developers>
+
 
 </project>
